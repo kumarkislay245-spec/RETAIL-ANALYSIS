@@ -125,6 +125,4 @@ SELECT * FROM samplestore;
 3. Set your database credentials as environment variables and update the connection string in the first cell.
 4. Run the notebook top to bottom.
 
-## Next Steps
 
-- Power BI dashboard: problem statement → KPI home page → year-wise → category/region/sub-category → profit vs. sales → discount vs. profit/sales.
