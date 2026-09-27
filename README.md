@@ -55,8 +55,8 @@ SELECT * FROM samplestore;
 
 **Year-wise**
 
-![Revenue vs Profit by Year](images/year_revenue_profit.png)
-![Profit Margin % by Year](images/year_margin_trend.png)
+![Revenue vs Profit by Year](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/year_revenue_profit.png)
+![Profit Margin % by Year](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/year_margin_trend.png)
 
 - 2014→2015: sales dipped slightly (-2.83%) but profit rose 24.37%, pushing margin from 10.23% to 13.10%
 - 2015→2016: strongest revenue growth of the period (+29.47%), profit grew in step (+32.74%), margin held at 13.43%
@@ -64,10 +64,10 @@ SELECT * FROM samplestore;
 
 **Category & Sub-category**
 
-![Average Sales by Category](images/avg_sales_by_category.png)
-![Average Profit by Category](images/avg_profit_by_category.png)
-![Average Discount by Category](images/avg_discount_by_category.png)
-![Average Profit by Sub-category](images/avg_profit_by_subcategory.png)
+![Average Sales by Category](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_sales_by_category.png)
+![Average Profit by Category](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_profit_by_category.png)
+![Average Discount by Category](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_discount_by_category.png)
+![Average Profit by Sub-category](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_profit_by_subcategory.png)
 
 - Technology is the strongest category — highest average sales with relatively low average discount (~13%), driving strong profitability. Copiers are the standout performer.
 - Furniture has good sales but the highest average discount (~17%), which erodes margin. Tables and Bookcases post *negative* average profit.
@@ -75,7 +75,7 @@ SELECT * FROM samplestore;
 
 **Region**
 
-![Average Profit by Region](images/avg_profit_by_region.png)
+![Average Profit by Region](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_profit_by_region.png)
 
 - West: highest profitability, lowest average discount (~10%) — most efficient pricing.
 - East: solid balance of sales and profit.
@@ -84,8 +84,8 @@ SELECT * FROM samplestore;
 
 **State, Shipping, Segment**
 
-![Average Profit by Shipping Mode](images/avg_profit_by_shipmode.png)
-![Average Profit by Segment](images/avg_profit_by_segment.png)
+![Average Profit by Shipping Mode](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_profit_by_shipmode.png)
+![Average Profit by Segment](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/avg_profit_by_segment.png)
 
 - Vermont has the highest average profit; Ohio the lowest.
 - Shipping modes perform similarly on sales; First Class edges ahead on average profit.
@@ -93,15 +93,15 @@ SELECT * FROM samplestore;
 
 **Discounting**
 
-![Discount vs Profit](images/discount_vs_profit.png)
-![Discount vs Sales](images/discount_vs_sales.png)
+![Discount vs Profit](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/discount_vs_profit.png)
+![Discount vs Sales](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/discount_vs_sales.png)
 
 - Discounts above 30% consistently hurt profitability.
 - 10–15% discount range balances sales lift against margin.
 
 **Correlation**
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/kumarkislay245-spec/RETAIL-ANALYSIS/blob/main/correlation_heatmap.png)
 
 ## Business Recommendations
 
